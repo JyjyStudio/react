@@ -7,6 +7,7 @@ import './App.css';
 //     </div>
 //   );
 // }
+
 const App = () => {
   return (
     <div className="App">
@@ -14,5 +15,4 @@ const App = () => {
     </div>
   )
 }
-
 export default App;
